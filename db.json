@@ -10,13 +10,299 @@
         }
     ],
     "watched": [
-        {
-            "id": 3,
-            "title": "Avengers"
-        },
-        {
-            "id": 4,
-            "title": "Lord of the Rings"
-        }
-    ]
+    {
+        "adult": false,
+        "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "id": 19913,
+        "original_language": "en",
+        "original_title": "(500) Days of Summer",
+        "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+        "popularity": 83.642,
+        "poster_path": "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+        "release_date": "2009-07-17",
+        "title": "(500) Days of Summer",
+        "video": false,
+        "vote_average": 7.285,
+        "vote_count": 9872
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 447365,
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "popularity": 160.998,
+        "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "release_date": "2023-05-03",
+        "title": "Guardians of the Galaxy Vol. 3",
+        "video": false,
+        "vote_average": 7.971,
+        "vote_count": 6484
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f1a51iItLhHnGWs2btAQjlDIEPB.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 11631,
+        "original_language": "en",
+        "original_title": "Mamma Mia!",
+        "overview": "An independent, single mother who owns a small hotel on a Greek island is about to marry off the spirited young daughter she's raised alone. But, the daughter has secretly invited three of her mother's ex-lovers in the hopes of finding her biological father.",
+        "popularity": 66.951,
+        "poster_path": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+        "release_date": "2008-07-03",
+        "title": "Mamma Mia!",
+        "video": false,
+        "vote_average": 6.977,
+        "vote_count": 6342
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 138843,
+        "original_language": "en",
+        "original_title": "The Conjuring",
+        "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+        "popularity": 160.988,
+        "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+        "release_date": "2013-07-18",
+        "title": "The Conjuring",
+        "video": false,
+        "vote_average": 7.544,
+        "vote_count": 11262
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ZWii9hKDsiA5LLZ3fy1o6RwHnA.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 259693,
+        "original_language": "en",
+        "original_title": "The Conjuring 2",
+        "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+        "popularity": 131.01,
+        "poster_path": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+        "release_date": "2016-06-08",
+        "title": "The Conjuring 2",
+        "video": false,
+        "vote_average": 7.296,
+        "vote_count": 8196
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 640146,
+        "original_language": "en",
+        "original_title": "Ant-Man and the Wasp: Quantumania",
+        "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+        "popularity": 122.133,
+        "poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+        "release_date": "2023-02-15",
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "video": false,
+        "vote_average": 6.344,
+        "vote_count": 4787
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+        "genre_ids": [
+            18,
+            10402,
+            10749
+        ],
+        "id": 776503,
+        "original_language": "en",
+        "original_title": "CODA",
+        "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+        "popularity": 89.918,
+        "poster_path": "/ilZ9Sa24Hv9aErG22fRbGsMUVfA.jpg",
+        "release_date": "2021-08-13",
+        "title": "CODA",
+        "video": false,
+        "vote_average": 7.942,
+        "vote_count": 2128
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg",
+        "genre_ids": [
+            36,
+            18
+        ],
+        "id": 82695,
+        "original_language": "en",
+        "original_title": "Les Misérables",
+        "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+        "popularity": 63.546,
+        "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+        "release_date": "2012-12-18",
+        "title": "Les Misérables",
+        "video": false,
+        "vote_average": 7.333,
+        "vote_count": 5201
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 423108,
+        "original_language": "en",
+        "original_title": "The Conjuring: The Devil Made Me Do It",
+        "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+        "popularity": 122.196,
+        "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+        "release_date": "2021-05-25",
+        "title": "The Conjuring: The Devil Made Me Do It",
+        "video": false,
+        "vote_average": 7.445,
+        "vote_count": 5760
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 937278,
+        "original_language": "en",
+        "original_title": "A Man Called Otto",
+        "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+        "popularity": 45.707,
+        "poster_path": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+        "release_date": "2022-12-28",
+        "title": "A Man Called Otto",
+        "video": false,
+        "vote_average": 7.758,
+        "vote_count": 2448
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9TW4zKd2FFZgqR8k5vf4oZofPMR.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 602269,
+        "original_language": "en",
+        "original_title": "The Little Things",
+        "overview": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.",
+        "popularity": 44.81,
+        "poster_path": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+        "release_date": "2021-01-28",
+        "title": "The Little Things",
+        "video": false,
+        "vote_average": 6.329,
+        "vote_count": 2392
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r8xOpEymLQrgMLKHk5oultzMxyQ.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 508642,
+        "original_language": "ko",
+        "original_title": "곤지암",
+        "overview": "The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.",
+        "popularity": 67.47,
+        "poster_path": "/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg",
+        "release_date": "2018-03-28",
+        "title": "Gonjiam: Haunted Asylum",
+        "video": false,
+        "vote_average": 7.337,
+        "vote_count": 621
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4FPP2n1uazvlWvzIqn8ysaOpEID.jpg",
+        "genre_ids": [
+            878,
+            18,
+            53,
+            12
+        ],
+        "id": 559581,
+        "original_language": "en",
+        "original_title": "Stowaway",
+        "overview": "A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.",
+        "popularity": 26.432,
+        "poster_path": "/yOscLK7KzEPDdi1P8RmevGIjOSp.jpg",
+        "release_date": "2021-06-24",
+        "title": "Stowaway",
+        "video": false,
+        "vote_average": 5.986,
+        "vote_count": 492
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mN8L1gYgbLZW88jwj3ok2WO4UvE.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 7979,
+        "original_language": "en",
+        "original_title": "The Kite Runner",
+        "overview": "After spending years in California, Amir returns to his homeland in Afghanistan to help his old friend Hassan, whose son is in trouble.",
+        "popularity": 25.679,
+        "poster_path": "/dom2esWWW8C9jS2v7dOhW48LwHh.jpg",
+        "release_date": "2007-12-14",
+        "title": "The Kite Runner",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 1119
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35,
+            14,
+            12
+        ],
+        "id": 809,
+        "original_language": "en",
+        "original_title": "Shrek 2",
+        "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+        "popularity": 134.12,
+        "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+        "release_date": "2004-05-19",
+        "title": "Shrek 2",
+        "video": false,
+        "vote_average": 7.274,
+        "vote_count": 12027
+    }
+]
 }
