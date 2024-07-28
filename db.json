@@ -1,27 +1,37 @@
 {
     "watchlist": [
-    {
-        "adult": false,
-        "backdrop_path": "/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
-        "genre_ids": [
-            28,
-            16,
-            35,
-            10751,
-            12
-        ],
-        "id": 324852,
-        "original_language": "en",
-        "original_title": "Despicable Me 3",
-        "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
-        "popularity": 123.567,
-        "poster_path": "/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
-        "release_date": "2017-06-15",
-        "title": "Despicable Me 3",
-        "video": false,
-        "vote_average": 6.5,
-        "vote_count": 6968
-    }
+  {
+    "adult": false,
+    "backdrop_path": "/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+    "genre_ids": [28, 16, 35, 10751, 12],
+    "id": 324852,
+    "original_language": "en",
+    "original_title": "Despicable Me 3",
+    "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
+    "popularity": 123.567,
+    "poster_path": "/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+    "release_date": "2017-06-15",
+    "title": "Despicable Me 3",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 6968
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9l1eZiJHmhr5jIlthMdJN5WYoff.jpg",
+    "genre_ids": [878, 28, 35],
+    "id": 533535,
+    "original_language": "en",
+    "original_title": "Deadpool & Wolverine",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "popularity": 4270.83,
+    "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "release_date": "2024-07-24",
+    "title": "Deadpool & Wolverine",
+    "video": false,
+    "vote_average": 8.083,
+    "vote_count": 542
+  }
 ],
     "watched": [
     {
